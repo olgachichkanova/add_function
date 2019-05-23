@@ -9,4 +9,4 @@ function add() {
 }
 
 document.getElementById('add_button').addEventListener('click', add);
-
+//to do: values by default
